@@ -32,3 +32,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # 展示效果
 
 ![image](https://github.com/Spillage/stress-platform-fe/blob/master/image2019-7-12_14-48-48.png)
+
+![image](https://github.com/Spillage/stress-platform-fe/blob/master/image2019-7-25_11-15-13.png)
